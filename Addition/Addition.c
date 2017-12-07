@@ -15,4 +15,5 @@ resultat = a + b;
 
 printf("Le résultat est %d", resultat);
 return 0;
+  eee
 }
